@@ -1,0 +1,26 @@
+{
+  "name": "Universe #4",
+  "symbol": "UNIVE",
+  "edition": "2021",
+  "description": "Universe",
+  "image": "https://ipfs.io/ipfs/QmRnN4JTfh95vv6xqAZjJBShXUepnarAQz4Gyqs6ctmaji",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "rare"
+    },
+    {
+      "trait_type": "Upgrade moon",
+      "value": "No"
+    },
+    {
+      "trait_type": "Upgarde civilsatioin",
+      "value": "No"
+    },
+    {
+      "trait_type": "Upgrade tech",
+      "value": "Yes"
+    }
+  ]
+}
